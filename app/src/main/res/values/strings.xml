@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SDK Authentication TH Java</string>
+    <!--    <string name="camera_required" tools:ignore="ExtraTranslation">Open Camera per！</string>-->
+    <!--    <string name="camera_permission_required">เปิดกล้องด้วยยยย!!!</string>-->
+</resources>

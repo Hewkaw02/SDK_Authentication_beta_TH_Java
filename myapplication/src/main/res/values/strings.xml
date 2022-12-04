@@ -1,0 +1,4 @@
+<resources>
+    <string name="touch_to_focus">แตะเพื่อโฟกัส</string>
+    <color name="preview_mock">#9a000000</color>
+</resources>
